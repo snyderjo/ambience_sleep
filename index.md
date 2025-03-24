@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Weekly Ambience and Sleep"
-date: "Aug 24, 2024"
+title: "Weekly Sleep and Ambience"
+date: "Mar 23, 2025"
 background: "/img/SenseHat.jpg"
 output:
   md_document:
@@ -13,7 +13,7 @@ knit: (function(input, encoding) {
                     output_dir = "../output")})
 ---
 
-## Aug 24, 2024
+## Mar 23, 2025
 
 The images below below are the combined results of two systems:
 
