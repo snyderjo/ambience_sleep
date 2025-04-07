@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Weekly Sleep and Ambience"
-date: "Mar 31, 2025"
+date: "Apr 07, 2025"
 background: "/img/SenseHat.jpg"
 output:
   md_document:
@@ -13,7 +13,7 @@ knit: (function(input, encoding) {
                     output_dir = "../output")})
 ---
 
-## Mar 31, 2025
+## Apr 07, 2025
 
 The images below below are the combined results of two systems:
 
@@ -52,7 +52,7 @@ consistent bias.
 #### A couple of notes:
 
 - What gives with the delay between the date this report is rendered
-  vs. what is displayed below?
+  vs. what is displayed above?
   - If the data were immediate, it would be entirely too clear when I
     was out of town–information I’m not keen to share.  
 - There are notable gaps in data. Why?
